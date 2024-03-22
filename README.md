@@ -2,6 +2,10 @@
    React - Multi Step Form
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-multi-step-form/assets/111967202/37c9c0b2-831e-4be9-9a6c-cbd202cfe571" width="700" />
 </p>
